@@ -13,7 +13,7 @@ information related to the mean curvature and the saliency of each feature
 curve in order to find similarities with feature curves of other models.
 
 
-The code is described in more detail on this paper:
+The theoritical part of code is described in more detail on this paper:
 
 ### BibTeX
 
