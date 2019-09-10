@@ -2,7 +2,9 @@
 Spectral-based saliency estimation for the identification of features in 3D meshes
 
 
-BibTeX
+The code is described in more detail on this paper:
+
+### BibTeX
 
 @inproceedings {or.20191066,
 booktitle = {Eurographics Workshop on 3D Object Retrieval},
