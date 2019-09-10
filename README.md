@@ -1,7 +1,6 @@
-# SBSE
-## Spectral-based saliency estimation for the identification of features in 3D meshes
+# Spectral-Based Saliency Estimation (SBSE) for the identification of features in 3D meshes
 
-This is a method for the feature curve extraction on triangle meshes. The pipeline of the proposed method is separated into two basic
+SBSE is a method for the feature curve extraction on triangle meshes. The pipeline of the proposed method is separated into two basic
 steps. 
 
 At the first step, we estimate the saliency of each vertex using spectral
