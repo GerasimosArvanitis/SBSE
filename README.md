@@ -3,6 +3,7 @@ Spectral-based saliency estimation for the identification of features in 3D mesh
 
 
 BibTeX
+
 @inproceedings {or.20191066,
 booktitle = {Eurographics Workshop on 3D Object Retrieval},
 editor = {Biasotti, Silvia and Lavoué, Guillaume and Veltkamp, Remco},
