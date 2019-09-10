@@ -1,3 +1,6 @@
+% Written by Gerasimos Arvanitis
+% email: arvanitis@ece.upatras.gr
+
 clear all
 
 n = zeros(15,20);
