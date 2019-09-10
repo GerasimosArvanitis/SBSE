@@ -1,3 +1,6 @@
+% Written by Gerasimos Arvanitis
+% email: arvanitis@ece.upatras.gr
+
 function handles = GUI_features()
 
 handles.ok = 0;
