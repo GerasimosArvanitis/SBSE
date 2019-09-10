@@ -1,5 +1,17 @@
 # SBSE
-Spectral-based saliency estimation for the identification of features in 3D meshes
+## Spectral-based saliency estimation for the identification of features in 3D meshes
+
+This is a method for the feature curve extraction on triangle meshes. The pipeline of the proposed method is separated into two basic
+steps. 
+
+At the first step, we estimate the saliency of each vertex using spectral
+analysis. The magnitude of the estimated saliency identifies if a vertex is feature
+or not. Based on the geometry, we can say that the feature vertices represent
+the edges of a feature curve (both crests and valleys) or corners. At the second
+step, we estimate the mean curvature of the extracted features and we use
+it to classify the different feature curves (if exist). Additionally, we use the
+information related to the mean curvature and the saliency of each feature
+curve in order to find similarities with feature curves of other models.
 
 
 The code is described in more detail on this paper:
