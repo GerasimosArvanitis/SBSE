@@ -3,11 +3,11 @@
 SBSE is a method for the feature curve extraction on triangle meshes. The pipeline of the proposed method is separated into two basic
 steps. 
 
-At the first step, we estimate the saliency of each vertex using spectral
+* At the first step, we estimate the saliency of each vertex using spectral
 analysis. The magnitude of the estimated saliency identifies if a vertex is feature
 or not. Based on the geometry, we can say that the feature vertices represent
-the edges of a feature curve (both crests and valleys) or corners. At the second
-step, we estimate the mean curvature of the extracted features and we use
+the edges of a feature curve (both crests and valleys) or corners. 
+* At the second step, we estimate the mean curvature of the extracted features and we use
 it to classify the different feature curves (if exist). Additionally, we use the
 information related to the mean curvature and the saliency of each feature
 curve in order to find similarities with feature curves of other models.
