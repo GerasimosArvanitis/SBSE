@@ -14,7 +14,9 @@ curve in order to find similarities with feature curves of other models.
 
 ## Dependencies 
 [curvatures.m](https://www.mathworks.com/matlabcentral/fileexchange/61136-gaussian-and-mean-curvatures-calculation-on-a-triangulated-3d-surface)
+
 [patchnormals_double.m](https://github.com/yeatmanlab/AFQ/blob/master/3Dmesh/patch_normals/patchnormals_double.m)
+
 [read_ply.m](https://github.com/gpeyre/matlab-toolboxes/blob/master/toolbox_graph/read_ply.m)
 
 ## Research Paper
