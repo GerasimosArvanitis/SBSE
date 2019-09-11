@@ -21,7 +21,7 @@ curve in order to find similarities with feature curves of other models.
 
 ## Research Paper
 
-The theoretical part of code is described in more detail on this paper:
+The theoretical part of this code is described in more detail on this paper:
 
 ### BibTeX
 
