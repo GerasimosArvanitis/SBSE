@@ -1,5 +1,7 @@
 # Spectral-Based Saliency Estimation (SBSE) for the identification of features in 3D meshes
 
+## Description
+
 SBSE is a method for the feature curve extraction on triangle meshes. The pipeline of the proposed method is separated into two basic
 steps. 
 
@@ -13,11 +15,9 @@ information related to the mean curvature and the saliency of each feature
 curve in order to find similarities with feature curves of other models.
 
 ## Dependencies 
-[curvatures.m](https://www.mathworks.com/matlabcentral/fileexchange/61136-gaussian-and-mean-curvatures-calculation-on-a-triangulated-3d-surface)
-
-[patchnormals_double.m](https://github.com/yeatmanlab/AFQ/blob/master/3Dmesh/patch_normals/patchnormals_double.m)
-
-[read_ply.m](https://github.com/gpeyre/matlab-toolboxes/blob/master/toolbox_graph/read_ply.m)
+* [curvatures.m](https://www.mathworks.com/matlabcentral/fileexchange/61136-gaussian-and-mean-curvatures-calculation-on-a-triangulated-3d-surface)
+* [patchnormals_double.m](https://github.com/yeatmanlab/AFQ/blob/master/3Dmesh/patch_normals/patchnormals_double.m)
+* [read_ply.m](https://github.com/gpeyre/matlab-toolboxes/blob/master/toolbox_graph/read_ply.m)
 
 ## Research Paper
 
