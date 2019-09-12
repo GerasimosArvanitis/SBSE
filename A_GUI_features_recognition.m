@@ -1,5 +1,8 @@
-% Written by Gerasimos Arvanitis
-% email: arvanitis@ece.upatras.gr
+% Copyright : This code is written by Gerasimos Arvanitis {arvanitis@ece.upatras.gr}
+%              Electrical and Computer Engineering, University of Patras. The code
+%              may be used, modified and distributed for research purposes with
+%              acknowledgement of the author and inclusion of this copyright information.
+
 
 function handles = GUI_features()
 
